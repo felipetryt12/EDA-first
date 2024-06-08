@@ -1,4 +1,6 @@
-from utils import db_connect
-engine = db_connect()
+'''
 
-# your code here
+Todo esta en explore, sorry no sabia en que momento mudar el codigo
+
+
+'''
